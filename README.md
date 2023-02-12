@@ -4,12 +4,12 @@
 [![Disclaimer](https://img.shields.io/badge/Disclaimer-Important-red.svg)](https://github.com/user/repo)
 
 # Ytube DownLoader
-Ytube DownLoader is a simple graphical user interface for downloading YouTube videos using pytube. It allows you to view information about the video, such as its title, length, views, and description, before downloading it in the desired quality or audio format.
+Ytube DownLoader is a simple graphical user interface for downloading YouTube videos using [pytube](https://github.com/pytube/pytube). It allows you to view information about the video, such as its title, length, views, and description, before downloading it in the desired quality or audio format.
 
 ## Requirements
-- Python version 3.x
-- pytube
-- PySimpleGUI
+- [Python](https://www.python.org/downloads/) version 3.x
+- [pytube](https://github.com/pytube/pytube)
+- [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
 
 ## Installation
 To install the required packages, run the following command in your terminal:
